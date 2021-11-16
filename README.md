@@ -2,7 +2,7 @@
 
 Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I am currently working as a Software Engineer in Test at [Trulioo Information Services](https://www.trulioo.com/). My team builds and maintains internal testing frameworks and other internal testing tools.
 
-- 🌱 I'm very interested engineering problem solving through software design!
+- 🌱 I'm very interested in engineering problem solving through software design!
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/viktordojnov/)! 
 - ⚡ Fun fact: My [Superhero Tic-Tac-Toe](https://vdojnov.github.io/Superhero-Tic-Tac-Toe/) is the second most liked tic-tac-toe project on [TheOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/tic-tac-toe)
 
