@@ -9,7 +9,7 @@ Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I 
 Languages and Tools
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <i width="300px" class="devicon-typescript-original"></i>
-<i width="300px" class="devicon-csharp-original."></i>
+<i width="300px" class="devicon-csharp-original"></i>
 <i width="300px" class="devicon-typescript-original"></i>
 <i width="300px" class="devicon-typescript-original"></i>
 <i width="300px" class="devicon-typescript-original"></i>
