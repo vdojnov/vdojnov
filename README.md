@@ -32,3 +32,5 @@ Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I 
 ### Github Stats
 
 ![Viktor's github stats](https://github-readme-stats.vercel.app/api?username=vdojnov&theme=dark)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vdojnov&left_color=black&right_color=blue)
