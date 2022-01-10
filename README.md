@@ -28,9 +28,24 @@ Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I 
 <img align="left" alt="VSCode" width="26px" src="./Icons/vscode-original.svg" />
 
 <br>
+<br>
 
 ### Github Stats
 
 ![Viktor's github stats](https://github-readme-stats.vercel.app/api?username=vdojnov&theme=dark)
+
+### Social
+<a href="https://www.linkedin.com/in/viktordojnov/">
+  <img align="left" alt="linkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<a href="https://www.hackerrank.com/viktordojnov">
+  <img align="left" alt="hackerRank" width="26px" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" />
+</a>
+<a href="https://leetcode.com/dojnov/">
+  <img align="left" alt="leetcode" width="26px" src="https://assets.leetcode.com/static_assets/public/icons/favicon-160x160.png" />
+</a>
+
+<br>
+<br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vdojnov&left_color=black&right_color=blue)
