@@ -34,7 +34,7 @@ Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I 
 
 ![Viktor's github stats](https://github-readme-stats.vercel.app/api?username=vdojnov&theme=dark)
 
-### Social
+<!-- ### Social
 <a href="https://www.linkedin.com/in/viktordojnov/">
   <img align="left" alt="linkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
@@ -46,6 +46,6 @@ Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I 
 </a>
 
 <br>
-<br>
+<br> -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vdojnov&left_color=black&right_color=blue)
