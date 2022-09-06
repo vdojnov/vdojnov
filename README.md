@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I am currently working as a Software Engineer in Test at [Trulioo Information Services](https://www.trulioo.com/). My team builds and maintains internal testing frameworks and other internal testing tools.
+Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I am currently working as a Software Engineer at [Dapper Labs](https://www.dapperlabs.com/).
 
 - 🌱 I'm very interested in engineering problem solving through software design!
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/viktordojnov/)! 
