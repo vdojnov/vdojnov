@@ -9,6 +9,10 @@ Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I 
 
 ### Languages and Tools
 
+<img align="left" alt="Golang" width="26px" src="./Icons/Go-Logo_Blue.svg" />
+<img align="left" alt="GCP" width="26px" src="./Icons/gcp-svg.svg" />
+<img align="left" alt="GraphQL" width="26px" src="./Icons/graphql-svg.svg" />
+<img align="left" alt="Redis" width="26px" src="./Icons/redis-log.svg" />
 <img align="left" alt="CSharp" width="26px" src="./Icons/csharp-original.svg" />
 <img align="left" alt="TypeScript" width="26px" src="./Icons/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./Icons/javascript-original.svg" />
