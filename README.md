@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I am currently working as a Software Engineer at [Dapper Labs](https://www.dapperlabs.com/)!
+Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I am a Senior Software Engineer at [Dapper Labs](https://www.dapperlabs.com/) working on [NBA TopShot](https://nbatopshot.com/)!
 
-- 🌱 I'm very interested in engineering problem solving through software design!
+- 🌱 I'm very interested in engineering problem-solving through software design!
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/viktordojnov/)! 
 - ⚡ Fun fact: My [Superhero Tic-Tac-Toe](https://vdojnov.github.io/Superhero-Tic-Tac-Toe/) is the second most liked tic-tac-toe project on [TheOdinProject](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/tic-tac-toe)
 
