@@ -10,15 +10,19 @@ Hello, my name is [Viktor Dojnov](https://www.linkedin.com/in/viktordojnov/)! I 
 ### Languages and Tools
 
 <img align="left" alt="Golang" width="26px" src="./Icons/Go-Logo_Blue.svg" />
-<img align="left" alt="GCP" width="26px" src="./Icons/gcp-svg.svg" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Postgres" width="26px" src="./Icons/postgresql-original.svg" />
 <img align="left" alt="GraphQL" width="26px" src="./Icons/graphql-svg.svg" />
 <img align="left" alt="Redis" width="26px" src="./Icons/redis-log.svg" />
+<img align="left" alt="GCP" width="26px" src="./Icons/gcp-svg.svg" />
+<img align="left" alt="Kafka" width="26px" src="./Icons/kafka-svg.svg" />
+<img align="left" alt="Docker" width="26px" src="./Icons/docker-svg.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="./Icons/kubernetes-svg.svg" />
+<img align="left" alt="Terraform" width="26px" src="./Icons/terraform-svg.svg" />
 <img align="left" alt="CSharp" width="26px" src="./Icons/csharp-original.svg" />
 <img align="left" alt="TypeScript" width="26px" src="./Icons/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./Icons/javascript-original.svg" />
 <img align="left" alt="Python" width="26px" src="./Icons/python-original.svg" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Postgres" width="26px" src="./Icons/postgresql-original.svg" />
 <img align="left" alt="NodeJS" width="26px" src="./Icons/nodejs-original.svg" />
 <img align="left" alt="dotnetcore" width="26px" src="./Icons/dotnetcore-original.svg" />
 <img align="left" alt="expressJS" width="26px" src="./Icons/express-original.svg" />
